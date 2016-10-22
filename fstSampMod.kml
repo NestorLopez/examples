@@ -15,8 +15,8 @@
         <width>4</width>
       </LineStyle>
     </Style>
-    
-<Placemark>
+
+    <Placemark>
       <name>Red Line</name>
       <styleUrl>#redLine</styleUrl>
       <LineString>
@@ -116,5 +116,6 @@
         </coordinates>
       </LineString>
     </Placemark>
-  </Document>
+
+</Document>
 </kml>

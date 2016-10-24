@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Other</name>
+    <description>Other lines</description>
+
+    <Style id="blueLine">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+-92.149282,19.070079
+-92.149282,19.069836
+-92.149389,19.069643
+-92.149389,19.069643
+-92.149604,19.069430
+-92.149791,19.069317
+-92.149907,19.069205
+-92.149921,19.069088
+-92.149946,19.068996
+-92.149982,19.068813
+-92.150104,19.068721
+-92.150264,19.068573
+-92.151055,19.067748
+-92.151409,19.067474
+-92.151742,19.067231
+-92.152129,19.066745
+-92.152591,19.066411
+-92.152989,19.066127
+-92.153258,19.065813
+-92.153592,19.065438
+-92.154473,19.063778
+-92.154249,19.063210
+-92.153789,19.062997
+-92.153372,19.062652
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
